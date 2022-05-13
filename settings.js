@@ -40,7 +40,7 @@ global.footer = 'SKDP' //ubah jadi nama kamu
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' //ubah jadi link yt kmu, kalau gk pnya gsh di gnti anggap aja credits :)
 global.ig = 'https://instagram.com/riychdwayne' //ubah jadi link ig kamu
 global.mygc = "https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw",'https://chat.whatsapp.com/Ic5kh4Voedr8pohooc8b5b'//ubah jadi link group kamu
-global.mygithub = 'https://github.com/Doramisi1'//terserah mau ubah/nggak
+global.mygithub = 'https://github.com/Doramisi1/SKDP-BOT'//terserah mau ubah/nggak
 global.email = 'egabertoananta60@gmail.com' //ubah jadi email kamu
 global.region = 'indonesia' //terserah mau ubah/nggak
 
