@@ -27,26 +27,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281368176386'] //ubah jadi nomor kamu
-global.premium = ['6281368176386'] //ubah jadi nomor kamu
-global.ownernomer = '6281368176386'//ubah jadi nomor kamu
+global.owner = ['6287719424487','6281368176386','6281368176386'] //ubah jadi nomor kamu
+global.premium = ['6287719424487'] //ubah jadi nomor kamu
+global.ownernomer = '6287719424487'//ubah jadi nomor kamu
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'SKDP' //ubah jadi nama kamu
-global.botname = 'Skdp-Md' //ubah jadi nama bot kamu
-global.footer = 'SKDP' //ubah jadi nama kamu
+global.ownername = 'Agungx え' //ubah jadi nama kamu
+global.botname = 'Sachi-Botzz え' //ubah jadi nama bot kamu
+global.footer = 'Agungx え' //ubah jadi nama kamu
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' //ubah jadi link yt kmu, kalau gk pnya gsh di gnti anggap aja credits :)
-global.ig = 'https://instagram.com/riychdwayne' //ubah jadi link ig kamu
-global.mygc = "https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw",'https://chat.whatsapp.com/Ic5kh4Voedr8pohooc8b5b'//ubah jadi link group kamu
-global.mygithub = 'https://github.com/Doramisi1/SKDP-BOT'//terserah mau ubah/nggak
-global.email = 'egabertoananta60@gmail.com' //ubah jadi email kamu
-global.region = 'indonesia' //terserah mau ubah/nggak
+global.youtube = 'https://youtube.com/channel/UCeU7SbbAlgW9cfR3Ya9XtFA' //ubah jadi link yt kmu, kalau gk pnya gsh di gnti anggap aja credits :)
+global.ig = 'https://instagram.com/yt.agungxx' //ubah jadi link ig kamu
+global.mygc = "https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV",'https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV'//ubah jadi link group kamu
+global.mygithub = 'xnxx.com'//terserah mau ubah/nggak
+global.email = 'fakeemail60@gmail.com' //ubah jadi email kamu
+global.region = 'Chilyyy' //terserah mau ubah/nggak
 
 //—————「 Set Wm 」—————//
-global.packname = '© Skpd-Md' //ubah jadi nama bot kamu
-global.author = 'SKDP' //ubah jadi nama kamu
+global.packname = '© Sachi-Botzz え' //ubah jadi nama bot kamu
+global.author = 'Agungx え' //ubah jadi nama kamu
 
 //—————「 Set Nama Session 」—————//
 global.sessionName = 'chika' //biarin aja gausah di ubah!
@@ -54,7 +54,7 @@ global.sessionName = 'chika' //biarin aja gausah di ubah!
 //—————「 Set Limit 」—————//
 global.limitawal = {
 premium: "Infinity", //biarin aja gausah di ubah!
-free: 50, //terserah mau ubah/nggak
+free: 100, //terserah mau ubah/nggak
 }
 
 //—————「 Set Image 」—————//
